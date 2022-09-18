@@ -1,0 +1,1 @@
+//This is gui small calculator project by python using tkinter library.
